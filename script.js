@@ -8,8 +8,7 @@
     const CONFIG = Object.freeze({
   pixelId: '1724972371893394',
       telegramUrl: 'https://t.me/+Gmnwx7z_9kllMzFl',
-
-        pageViewDelayMs:
+       pageViewDelayMs:
             3000,
 
         passiveReaderDelayMs:
@@ -724,4 +723,6 @@
 
 
 })();
+
+
 
